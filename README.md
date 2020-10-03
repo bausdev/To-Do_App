@@ -1,5 +1,8 @@
 # To-Do App
 
+**Developed by**: Benjamin Fry
+_*Started*_: Sept. 20th 2020
+
 ----
 
 ## Goal
